@@ -11,7 +11,7 @@ Python3
 ## Installation / download
 
 ```
-git clone https://github.com/stosempreingiro/myip.git && cd myip && rm -rf Screenshot && bash install.sh
+git clone https://github.com/stosempreingiro/myip.git && cd myip && bash install.sh
 ```
 Insert your password for 'installation'
 
